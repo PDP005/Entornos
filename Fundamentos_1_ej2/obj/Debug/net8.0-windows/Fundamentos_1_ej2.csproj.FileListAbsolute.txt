@@ -1,0 +1,16 @@
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\bin\Debug\net8.0-windows\Fundamentos_1_ej2.exe
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\bin\Debug\net8.0-windows\Fundamentos_1_ej2.deps.json
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\bin\Debug\net8.0-windows\Fundamentos_1_ej2.runtimeconfig.json
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\bin\Debug\net8.0-windows\Fundamentos_1_ej2.dll
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\bin\Debug\net8.0-windows\Fundamentos_1_ej2.pdb
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.Form1.resources
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.csproj.GenerateResource.cache
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.AssemblyInfoInputs.cache
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.AssemblyInfo.cs
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.csproj.CoreCompileInputs.cache
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.dll
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\refint\Fundamentos_1_ej2.dll
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.pdb
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\Fundamentos_1_ej2.genruntimeconfig.cache
+C:\Users\Pdp\source\repos\Fundamentos_1_ej2\Fundamentos_1_ej2\obj\Debug\net8.0-windows\ref\Fundamentos_1_ej2.dll
