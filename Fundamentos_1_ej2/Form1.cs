@@ -13,7 +13,7 @@ namespace Fundamentos_1_ej2
             posx = Convert.ToInt32(txtPosX.Text);
             posy = Convert.ToInt32(txtPosY.Text);
 
-            //syze paar cambiar tamaño
+            //syze paar cambiar tamaÃ±o
             lblCambioColYPos.Location = new Point(posx, posy);
 
         }
@@ -26,8 +26,9 @@ namespace Fundamentos_1_ej2
             azul = Convert.ToInt32(txtAzul.Text);
             if (rojo > 255 || verde > 255 || azul > 255)
             {
-                //añadir mensaje de error
-            }
+                //como seria si esta vacio 
+                MessageBox.Show("ERROR");            
+                }
             else
             {
                 //Color color= new(0, rojo, verde, azul);
