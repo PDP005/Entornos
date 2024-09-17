@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fundamentos_1_ej4/1.0.0": {
+        "runtime": {
+          "Fundamentos_1_ej4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos_1_ej4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
