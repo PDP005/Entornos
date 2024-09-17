@@ -27,7 +27,7 @@ namespace Fundamentos_1_ej2
             if (rojo > 255 || verde > 255 || azul > 255)
             {
                 //como seria si esta vacio 
-                MessageBox.Show("ERROR");            
+                MessageBox.Show("ERROR",MessageBoxIcon.Error);            
                 }
             else
             {
