@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\bin\Debug\net8.0-windows\Fundamentos_1_ej5.exe
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\bin\Debug\net8.0-windows\Fundamentos_1_ej5.deps.json
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\bin\Debug\net8.0-windows\Fundamentos_1_ej5.runtimeconfig.json
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\bin\Debug\net8.0-windows\Fundamentos_1_ej5.dll
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\bin\Debug\net8.0-windows\Fundamentos_1_ej5.pdb
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.frmFecha.resources
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.AssemblyInfo.cs
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.sourcelink.json
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.dll
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\refint\Fundamentos_1_ej5.dll
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.pdb
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\Fundamentos_1_ej5.genruntimeconfig.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej5\Fundamentos_1_ej5\obj\Debug\net8.0-windows\ref\Fundamentos_1_ej5.dll
