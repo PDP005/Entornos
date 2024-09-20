@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\EjemploPOO\bin\Debug\net8.0-windows\EjemploPOO.exe
+C:\Users\admin\source\repos\EjemploPOO\bin\Debug\net8.0-windows\EjemploPOO.deps.json
+C:\Users\admin\source\repos\EjemploPOO\bin\Debug\net8.0-windows\EjemploPOO.runtimeconfig.json
+C:\Users\admin\source\repos\EjemploPOO\bin\Debug\net8.0-windows\EjemploPOO.dll
+C:\Users\admin\source\repos\EjemploPOO\bin\Debug\net8.0-windows\EjemploPOO.pdb
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.Form1.resources
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.AssemblyInfo.cs
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.sourcelink.json
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.dll
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\refint\EjemploPOO.dll
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.pdb
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\EjemploPOO.genruntimeconfig.cache
+C:\Users\admin\source\repos\EjemploPOO\obj\Debug\net8.0-windows\ref\EjemploPOO.dll
