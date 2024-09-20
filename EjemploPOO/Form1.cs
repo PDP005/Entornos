@@ -95,6 +95,8 @@ namespace EjemploPOO
             }
             return null;
         }
+        //añadir boton limpiar
+        //cuando busca inhabilita dni y nombre luego se puede editar el tel
         // editar que solo deje editar el tel
         //VMEJORADA radio button que si es erasmuus se gabilite el boton de erasmus
 
