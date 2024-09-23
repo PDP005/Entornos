@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Fundamentos_1_ej6\bin\Debug\net8.0-windows\Fundamentos_1_ej6.exe
+C:\Users\admin\source\repos\Fundamentos_1_ej6\bin\Debug\net8.0-windows\Fundamentos_1_ej6.deps.json
+C:\Users\admin\source\repos\Fundamentos_1_ej6\bin\Debug\net8.0-windows\Fundamentos_1_ej6.runtimeconfig.json
+C:\Users\admin\source\repos\Fundamentos_1_ej6\bin\Debug\net8.0-windows\Fundamentos_1_ej6.dll
+C:\Users\admin\source\repos\Fundamentos_1_ej6\bin\Debug\net8.0-windows\Fundamentos_1_ej6.pdb
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.Form1.resources
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.AssemblyInfo.cs
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.sourcelink.json
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.dll
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\refint\Fundamentos_1_ej6.dll
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.pdb
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\Fundamentos_1_ej6.genruntimeconfig.cache
+C:\Users\admin\source\repos\Fundamentos_1_ej6\obj\Debug\net8.0-windows\ref\Fundamentos_1_ej6.dll
