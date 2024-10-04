@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1_real.Form1.resources
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.AssemblyInfo.cs
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.sourcelink.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\bin\Debug\net8.0-windows\ej1.exe
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\bin\Debug\net8.0-windows\ej1.deps.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\bin\Debug\net8.0-windows\ej1.runtimeconfig.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\bin\Debug\net8.0-windows\ej1.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\bin\Debug\net8.0-windows\ej1.pdb
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\refint\ej1.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.pdb
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ej1.genruntimeconfig.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej1_real\obj\Debug\net8.0-windows\ref\ej1.dll

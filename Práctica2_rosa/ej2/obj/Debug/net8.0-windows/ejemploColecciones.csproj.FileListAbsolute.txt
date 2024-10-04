@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\bin\Debug\net8.0-windows\ejemploColecciones.exe
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\bin\Debug\net8.0-windows\ejemploColecciones.deps.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\bin\Debug\net8.0-windows\ejemploColecciones.runtimeconfig.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\bin\Debug\net8.0-windows\ejemploColecciones.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\bin\Debug\net8.0-windows\ejemploColecciones.pdb
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ej2.Form1.resources
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.AssemblyInfo.cs
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.sourcelink.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\refint\ejemploColecciones.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.pdb
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ejemploColecciones.genruntimeconfig.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej2\obj\Debug\net8.0-windows\ref\ejemploColecciones.dll
