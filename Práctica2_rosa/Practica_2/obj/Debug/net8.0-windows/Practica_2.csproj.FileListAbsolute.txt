@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\bin\Debug\net8.0-windows\Practica_2.exe
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\bin\Debug\net8.0-windows\Practica_2.deps.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\bin\Debug\net8.0-windows\Practica_2.runtimeconfig.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\bin\Debug\net8.0-windows\Practica_2.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\bin\Debug\net8.0-windows\Practica_2.pdb
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.Form1.resources
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.AssemblyInfo.cs
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.sourcelink.json
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\refint\Practica_2.dll
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.pdb
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\Practica_2.genruntimeconfig.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\Practica_2\obj\Debug\net8.0-windows\ref\Practica_2.dll
