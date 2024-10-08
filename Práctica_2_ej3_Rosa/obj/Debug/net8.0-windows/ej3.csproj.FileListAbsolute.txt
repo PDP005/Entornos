@@ -1,0 +1,23 @@
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.Form1.resources
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.AssemblyInfo.cs
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ENTORNO SERVIDOR\C#\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.sourcelink.json
+C:\Users\admin\Downloads\Practica_2\ej3\bin\Debug\net8.0-windows\ej3.exe
+C:\Users\admin\Downloads\Practica_2\ej3\bin\Debug\net8.0-windows\ej3.deps.json
+C:\Users\admin\Downloads\Practica_2\ej3\bin\Debug\net8.0-windows\ej3.runtimeconfig.json
+C:\Users\admin\Downloads\Practica_2\ej3\bin\Debug\net8.0-windows\ej3.dll
+C:\Users\admin\Downloads\Practica_2\ej3\bin\Debug\net8.0-windows\ej3.pdb
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.Form1.resources
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.AssemblyInfo.cs
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.dll
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\refint\ej3.dll
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.pdb
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ej3.genruntimeconfig.cache
+C:\Users\admin\Downloads\Practica_2\ej3\obj\Debug\net8.0-windows\ref\ej3.dll
